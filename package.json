@@ -1,0 +1,19 @@
+{
+  "name": "dna-base-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joexce/data-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joexce/data-structure/issues"
+  },
+  "homepage": "https://github.com/joexce/data-structure#readme"
+}
