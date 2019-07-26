@@ -1,4 +1,4 @@
-function findMeloveMe(str) {
+function fearNotLetter(str) {
 
     const wordsdb = "abcdefghijklmnopqrstuvwxyz";
     const wordsdbLength = wordsdb.length;
@@ -33,4 +33,4 @@ function findMeloveMe(str) {
 
 }
 
-console.log(findMeloveMe("abcef"));
+console.log(fearNotLetter("abcdef"));
